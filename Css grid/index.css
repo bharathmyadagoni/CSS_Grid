@@ -1,0 +1,72 @@
+.bg-container {
+    background-color: rgb(5, 5, 49);
+    background-size: cover;
+    height: 100vh;
+    margin: 0px auto;
+  }
+  
+  .main-container {
+    display: grid;
+    grid: 100px / auto auto auto;
+    padding-top: 60px;
+    width: 100vw;
+  }
+  .container-1 {
+    background-color: green;
+    height: 53vh;
+    width: 10vw;
+    margin-left: 300px;
+  }
+  .container-2 {
+    background-color: green;
+    height: 20vh;
+    width: 28vw;
+    margin-right: 450px;
+  }
+  .container-3 {
+    background-color: red;
+    height: 20vh;
+    width: 10vw;
+    margin-left: -450px;
+  }
+  .color {
+    display: grid;
+    grid: 100px / auto auto;
+    padding-top: 20px;
+  }
+  .yellow-div-1 {
+    background-color: yellow;
+    width: 170px;
+    height: 80px;
+  }
+  .red-color-1 {
+    background-color: red;
+    height: 80px;
+    width: 180px;
+    margin-right: 450px;
+  }
+  .color1 {
+    display: grid;
+    grid: 100px / auto auto;
+  }
+  .yellow-div-2 {
+    background-color: red;
+    width: 170px;
+    height: 80px;
+  }
+  .red-color-2 {
+    background-color: yellow;
+    height: 80px;
+    width: 180px;
+    margin-right: 450px;
+  }
+  .green {
+    grid: 100px / auto;
+    padding-top: 20px;
+  }
+  .green-color {
+    background-color: green;
+    height: 180px;
+    width: 140px;
+    margin-left: -449px;
+  }
